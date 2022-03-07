@@ -1,4 +1,7 @@
 <?php
-    $test = "test";
-    var_dump($test);
+    <?php
+
+    echo "Ridda";
+    
+    
 ?> 

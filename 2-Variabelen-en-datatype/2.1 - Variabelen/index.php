@@ -3,8 +3,10 @@
 <body>
 
 <?php
-$test = "test";
-var_dump($test);
+
+<?php
+$score = 0;
+echo $score;
 ?> 
 
 ?>
